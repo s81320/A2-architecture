@@ -40,4 +40,4 @@ https://nickcraver.com/blog/2016/02/17/stack-overflow-the-architecture-2016-edit
 This is not in the system design primer :)
 
 ### How would you get a simple GPU "Hello World" Example run on Google or AWS? (theoretically. Not practically!)
-Check out colab.reserch.github.com (Big thank you to Roman!)
+Check out https://colab.research.google.com (Big thank you to Roman!)
